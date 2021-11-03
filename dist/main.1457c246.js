@@ -213,4 +213,4 @@ getPage.onclick = function () {
   request.send();
 };
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=https://github.com/yudie-zhao/ajax-1/dist/main.1457c246.js.map
+//# sourceMappingURL=main.1457c246.js.map
